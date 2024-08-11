@@ -444,7 +444,7 @@ transform: translate(0);
 
 }
 
-.team-list-icon
+.team-list-icon.footer
 {
         gap: 16px;
 }
